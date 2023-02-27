@@ -1,0 +1,2 @@
+# suchmaschine
+einfacher suchen
