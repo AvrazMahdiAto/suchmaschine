@@ -1,2 +1,2 @@
-# suchmaschine
+# suchmaschine.js
 einfacher suchen
